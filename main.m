@@ -66,4 +66,9 @@ for ii = 1:length(intHarvest)
     end
 end
 %     
+counterDouble = 0;
+for ii = 1: 100
+    counterDouble = ii*2;
+    print(counterDouble)
+end
 %% 
